@@ -10,4 +10,4 @@
 
  start:
  cli
- 
+ mov_esp, stack_top
