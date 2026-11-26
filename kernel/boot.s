@@ -15,3 +15,4 @@
  hlt
 
  section .bss
+ align 16
