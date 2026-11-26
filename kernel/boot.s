@@ -5,3 +5,4 @@
  dd -0x1BADB002
 
  section .text
+ global start
