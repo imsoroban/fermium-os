@@ -7,3 +7,5 @@
  section .text
  global start
  extern kernel_main
+
+ start:
