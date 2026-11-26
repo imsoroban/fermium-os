@@ -9,3 +9,5 @@
  extern kernel_main
 
  start:
+ cli
+ 
