@@ -5,5 +5,7 @@ void kernel_main(void) {
     vga_print("Kernel online.\n");
     vga_print("Thank you for using. \n")
 
-    while (1)
+    while (1) {
+        __asm__ volatile ("hlt");
+    }
 }
