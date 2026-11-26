@@ -10,7 +10,7 @@
 
  start:
  cli
- mov esp, stack top
+ mov esp, stack_top
  call kernel_main
  hlt
 
