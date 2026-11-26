@@ -13,3 +13,5 @@
  mov_esp, stack_top
  call kernel_main
  hlt
+
+ section .bss
